@@ -1,3 +1,13 @@
+# Jonaki — Curriculum Index
+
+This is the master curriculum reference. The three apps each have their own file:
+
+- [Jonaki Kids (Grades 1–5) → CURRICULUM_KIDS.md](CURRICULUM_KIDS.md)
+- [Jonaki Learn (Pathways) → CURRICULUM_LEARN.md](CURRICULUM_LEARN.md)
+- [Jonaki Skills (Professional) → CURRICULUM_SKILLS.md](CURRICULUM_SKILLS.md)
+
+The full detailed curriculum with research foundations is in this file.
+
 <!--
 CURRICULUM LICENSE
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
