@@ -1,3 +1,8 @@
+## Placement Assessment
+See [ASSESSMENT.md](ASSESSMENT.md) for full placement design.
+All students take a 5-minute adaptive test before Grade 1 begins.
+Entry points: Grade 1, 2, 3, 4, or 5 depending on result.
+
 # Lumio Kids — Curriculum
 ### App 1 · Ages 5–12 · Foundation Learning · Cambridge Primary Aligned
 
